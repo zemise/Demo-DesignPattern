@@ -1,4 +1,4 @@
-package io.github.zemise.patterns.decorator;
+package io.github.zemise.patterns.structural.decorator;
 
 public interface Car {
     // 车的装配

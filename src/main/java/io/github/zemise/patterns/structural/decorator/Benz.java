@@ -1,4 +1,4 @@
-package io.github.zemise.patterns.decorator;
+package io.github.zemise.patterns.structural.decorator;
 
 public class Benz implements Car{
     @Override

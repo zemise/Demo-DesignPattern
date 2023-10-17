@@ -1,4 +1,4 @@
-package io.github.zemise.patterns.decorator;
+package io.github.zemise.patterns.structural.decorator;
 
 public abstract class CarDecorator implements Car{
     private Car car = null;

@@ -1,4 +1,4 @@
-package io.github.zemise.patterns.proxy;
+package io.github.zemise.patterns.structural.proxy;
 
 public class GamePlayer implements IGamePlayer{
     private String name = "";
